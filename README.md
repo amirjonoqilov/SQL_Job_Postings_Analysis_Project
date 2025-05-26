@@ -238,7 +238,7 @@ ORDER BY
     average_salary DESC
 LIMIT 25;
 ```       
-
+I have used ChatGPT for changing CVS file to table and generate some texts for analysis.
 
 
 # What I Learned
